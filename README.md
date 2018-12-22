@@ -1,6 +1,6 @@
 # MagicMirror-Hackathon
 
-Hackathon for the [MagicMirror² project](https://github.com/MichMich/MagicMirror) and [3rd party modules](https://github.com/MichMich/MagicMirror/wiki/3rd-party-modules).
+Hackathon for the [MagicMirror² project](https://github.com/MichMich/MagicMirror) and [3rd party modules](https://github.com/MichMich/MagicMirror/wiki/3rd-party-modules). Forum post https://forum.magicmirror.builders/topic/9298/magicmirror-hackathon-2018.
 
 ## What is a hackathon?
 
